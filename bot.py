@@ -18,7 +18,7 @@ def run_health_server():
     server.serve_forever()
 
 # ================= CONFIG (Don't Change These) =================
-BOT_TOKEN = "8697037269:AAEvJfIsm8HB7xikCeG-vkrBDcRDtBjgY70"
+BOT_TOKEN = "8697037269:AAFXNsplEdbZ4jPmmof511BY2TRklATVJKo"
 GEMINI_API_KEY = "AIzaSyBF8GrgZN_dZThwXvwirKxBLzMGfCiZmtY" 
 
 OWNER_ID = 8732201707
