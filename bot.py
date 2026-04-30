@@ -78,4 +78,4 @@ if __name__ == '__main__':
     
     print("🚀 Rose AI Bot Started!")
     app.run_polling()
-  
+
